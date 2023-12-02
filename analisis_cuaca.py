@@ -110,4 +110,6 @@ st.pyplot(plt)
 - Terdapat perbedaan dalam distribusi konsentrasi O3 antara stasiun Aotizhongxin dan Changping.
 - Aotizhongxin: Mungkin menunjukkan pola atau tren tertentu dalam konsentrasi O3.
 - Changping: Distribusi konsentrasi O3 di Changping mungkin memiliki karakteristik yang berbeda.
+
+Created by Sopyan
 """
